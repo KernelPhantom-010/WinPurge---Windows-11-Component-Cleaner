@@ -1,0 +1,1 @@
+If the .exe doesn't start: run VC_redist.x64.exe first, then retry.
