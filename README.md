@@ -42,8 +42,8 @@
 ### Clone & Build
 
 ```bash
-git clone https://github.com/KernelPhantom-010/WinPurge.git
-cd WinPurge
+git clone https://github.com/KernelPhantom-010/WinPurge---Windows-11-Component-Cleaner.git
+cd WinPurge---Windows-11-Component-Cleaner
 ```
 
 Open `WinPurge.sln` in Visual Studio 2022, set the configuration to **Release / x64**, and build.
