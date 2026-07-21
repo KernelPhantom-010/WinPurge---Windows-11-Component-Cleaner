@@ -42,7 +42,7 @@
 ### Clone & Build
 
 ```bash
-git clone https://github.com/<your-username>/WinPurge.git
+git clone https://github.com/KernelPhantom-010/WinPurge.git
 cd WinPurge
 ```
 
