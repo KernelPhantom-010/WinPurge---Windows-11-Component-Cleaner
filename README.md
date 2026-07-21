@@ -128,7 +128,7 @@ WinPurge/
 ## Disclaimer
 
 Removing built-in Windows components can break system functionality. Always create a system restore point (option 3) before making changes. The author takes no responsibility for any damage caused by misuse of this tool.
-
+WinPurge is an independent, third-party tool and is not affiliated with, endorsed by, or sponsored by Microsoft Corporation. Windows is a trademark of Microsoft.
 ---
 
 ## License
